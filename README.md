@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AfroLeadership is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://afroleadership.org
+AfroLeadership is a pan‑African non‑governmental organization based in Cameroon that combines research, civic technology, and advocacy to promote transparency, participatory democracy, and digital rights across Africa. Through community‑driven projects, data‑focused initiatives, and policy engagement, it seeks to empower citizens, strengthen institutions, and foster open governance throughout the continent.
+
+**Areas:** Company · NGO · Africa · Transparency · CivicTech · DigitalRights
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://afroleadership.org)
+- [Privacy policy](https://afroleadership.org/en/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/afroleadership/](https://apis.io/providers/afroleadership/).
